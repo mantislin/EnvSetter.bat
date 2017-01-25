@@ -1,2 +1,2 @@
 # EnvSetter.bat
-Set environment variables.
+Setup environment variables for different users.
